@@ -1,3 +1,4 @@
 # CST-256 Midterm
- Safa Bayraktar \n
+ Safa Bayraktar
+ 
  2/26/2021
